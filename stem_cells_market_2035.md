@@ -2,13 +2,14 @@
 
 **Advancements in stem cell technology, expanding clinical applications, and surging public and private investments position the global stem cells market for robust long-term growth.**
 
-The global **stem cells market** is experiencing an era of transformation as breakthroughs in cell-based therapies and regenerative medicine reshape the landscape of modern healthcare. According to a recent analysis by Transparency Market Research, the market, which stood at **US$ 92.5 billion in 2024**, is poised to surge to more than **US$ 280.2 billion by 2035**, growing at a **compound annual growth rate (CAGR) of 10.5%** during the forecast period of 2025 to 2035. This upward trajectory is fueled by several converging factors, including increasing public and private funding, technological innovations, favorable government policies, and expanding indications for stem cell-based therapies.
+The global **[stem cells market](https://www.transparencymarketresearch.com/stem-cells-market-report.html)** is experiencing an era of transformation as breakthroughs in cell-based therapies and regenerative medicine reshape the landscape of modern healthcare. According to a recent analysis by Transparency Market Research, the market, which stood at **US$ 92.5 billion in 2024**, is poised to surge to more than **US$ 280.2 billion by 2035**, growing at a **compound annual growth rate (CAGR) of 10.5%** during the forecast period of 2025 to 2035. This upward trajectory is fueled by several converging factors, including increasing public and private funding, technological innovations, favorable government policies, and expanding indications for stem cell-based therapies.
 
 ## Driving Forces: Government Funding and Research Support
 
 Public sector engagement continues to play a pivotal role in shaping the global stem cell industry. Governments across the globe are increasingly investing in stem cell research to catalyze innovation and translate laboratory findings into commercial therapies. A landmark example is the **California Institute of Regenerative Medicine (CIRM)** awarding **USD 8 million to Alpha Stem Cell Clinic** in December 2022 to explore the therapeutic potential of self-renewing cells. Similarly, the **Australian government’s 10-year Stem Cell Therapies Mission**, backed by **USD 102 million (AUD 150 million)** from the Medical Research Future Fund (MRFF), demonstrates the commitment of national bodies to advancing next-generation treatments.
 
 These funding efforts help address the long-standing bottlenecks in clinical trial infrastructure, manufacturing scale-up, and regulatory streamlining. Additionally, they nurture a collaborative ecosystem involving academia, biotech firms, and clinical institutions, ultimately creating a fertile environment for commercial innovation and therapeutic breakthroughs.
+![image_1748541876578](https://github.com/user-attachments/assets/09113db8-5202-44ac-a005-22facbb2cdf0)
 
 ## Ethical Advancements: iPSCs Take the Spotlight
 
