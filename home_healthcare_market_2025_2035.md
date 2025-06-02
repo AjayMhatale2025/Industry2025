@@ -3,6 +3,8 @@
 
 The global [home healthcare market](https://www.transparencymarketresearch.com/home-healthcare-market.html) is undergoing a transformative evolution, driven by rising demand for cost-effective, patient-centric care alternatives to traditional hospital stays. With the sector valued at **US$ 343.0 Bn in 2024**, and projected to exceed **US$ 1,006.4 Bn by 2035**, growing at a robust **CAGR of 10.3%**, home healthcare is emerging as a critical pillar of modern healthcare delivery. This growth is fueled by an aging global population, increasing prevalence of chronic diseases, and technological advancements in telehealth and remote monitoring solutions. As patients seek high-quality care in the comfort of their homes, the home healthcare market is poised for exponential expansion and innovation.
 
+![ChatGPT Image Jun 2, 2025, 10_56_12 PM](https://github.com/user-attachments/assets/a58fab0b-ca0c-4b25-a423-60108b07f1df)
+
 ## Why Home Healthcare? Understanding Market Drivers
 
 ### Aging Population and Chronic Disease Prevalence
